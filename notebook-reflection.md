@@ -37,7 +37,7 @@ Here, again, we can see that even when following tutorials things can go wrong w
 
 <br>
 
-### Interpretations and extending the notebook
+## Interpretations and extending the notebook
 After creating my notebook, I can see many ways that the data and the visualizations could be extended. Much of the data that I ended up focusing on changes the interpretations and conclusions that someone would come away with the THOR dataset. I think that one crucial strength that open data has is that it can be a more equitable and democratic approach to interpreting data. When information is open source, authority over the interpretation is shared.[^9] Anyone who is interested and has some knowledge of computers can choose different parts of the dataset to look at. The filtering and value count commands could be used to dig into data that interest different kinds of people. For example, after looking at how the top aircraft were used in bombing missions, I became interested in looking at the top target countries in the dataset.
 <br>
 ![tgt-country-count](tgt-country-count.png)
